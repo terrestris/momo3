@@ -3,7 +3,8 @@
 - Timeframe: 08:30-10:00h (UTC+01:00, Berlin)
 - Introduction
   - who is who
-    - TODO: List of participants
+    - Hinrich Paulsen (terrestris, HP)
+    - Marc Jansen (terrestris, MJ)
   - HP: Project Momo3
 
 - Technical abilities:
