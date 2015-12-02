@@ -18,3 +18,4 @@
   - Then github
     - on github --> during the session pull requests for the meeting-notes of 2015-11-25 were issued by participants from EIC and merged live by MJ using git and github
   - Links to further tutorials via email --> information will be sent by e-mail but will also be added to this file
+  - Next meeting will be on 2015-12-10 08:30-10:00h (UTC+01:00, Berlin)
