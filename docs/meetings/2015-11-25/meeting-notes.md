@@ -6,7 +6,7 @@
     - Hinrich Paulsen (terrestris, HP)
     - Marc Jansen (terrestris, MJ)
     - TODO: Add participants EIC
-    - Batchimeg (EIC)
+    - UNDRAKH (EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
