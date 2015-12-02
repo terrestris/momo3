@@ -7,8 +7,7 @@
   - TODO: Add participants EIC
 
 - Agenda:
-  - git & github quick run-through
-    git is a versioning system that is necessary if many people are working on the same resources, i. e. programming in the same files. It helps to keep track of changes in a meaningful way.
+  - git & github quick run-through --> git is a versioning system that is necessary if many people are working on the same resources, i. e. programming in the same files. It helps to keep track of changes in a meaningful way.
   - installation of git --> download started during the session; EIC administrators should install until next meeting
   - configuration of git --> not explained during this session
   - working with a local git repository --> MJ showed it in a very fast way; will repeat during next meeting 
