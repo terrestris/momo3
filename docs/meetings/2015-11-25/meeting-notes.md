@@ -5,6 +5,7 @@
   - who is who
     - Hinrich Paulsen (terrestris, HP)
     - Marc Jansen (terrestris, MJ)
+    - Erdenebold (EIC, EB)
     - TODO: Add participants EIC
   - HP: Short introduction to MoMo3 project
 
