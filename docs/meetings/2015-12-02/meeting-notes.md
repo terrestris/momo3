@@ -6,7 +6,7 @@
   - Marc Jansen (terrestris, MJ)
   - TODO: Add participants EIC
 
- - Agenda:
+- Agenda:
   - git & github quick run-through
     git is a versioning system that is necessary if many people are working on the same resources, i. e. programming in the same files. It helps to keep track of changes in a meaningful way.
   - installation of git --> download started during the session; EIC administrators should install until next meeting
