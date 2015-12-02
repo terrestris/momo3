@@ -7,6 +7,7 @@
     - Marc Jansen (terrestris, MJ)
     - Erdenebold (EIC, EB)
     - TODO: Add participants EIC
+    - Bayasgalan, EIC
     - Batchimeg (EIC)
     - Batkhishig, EIC
     - Lkhamsuren, EIC
