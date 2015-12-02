@@ -10,6 +10,7 @@
     - Batchimeg (EIC)
     - Batkhishig, EIC
     - Lkhamsuren, EIC
+    - Undrakh(EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
