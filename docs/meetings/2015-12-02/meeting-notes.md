@@ -4,7 +4,8 @@ Timeframe: 08:30-10:00h (UTC+01:00, Berlin)
 * Participants:
   * Hinrich Paulsen (terrestris, HP)
   * Marc Jansen (terrestris, MJ)
-  * TODO: Add participants EIC
+  * М. Bayasgalan,  EIC
+  * G. Batkhishig, EIC
 
 Agenda:
 * `git` & GitHub quick run-through
