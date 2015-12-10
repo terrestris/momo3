@@ -5,7 +5,14 @@
   - who is who
     - Hinrich Paulsen (terrestris, HP)
     - Marc Jansen (terrestris, MJ)
+    - Erdenebold (EIC, EB)
     - TODO: Add participants EIC
+    - Bayasgalan, EIC
+    - Batchimeg (EIC)
+    - Batkhishig, EIC
+    - Lkhamsuren, EIC
+    - UNDRAKH (EIC)
+    - GANDOLJIN(EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
