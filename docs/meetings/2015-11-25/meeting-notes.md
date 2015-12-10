@@ -12,6 +12,7 @@
     - Batkhishig, EIC
     - Lkhamsuren, EIC
     - UNDRAKH (EIC)
+    - GANDOLJIN(EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
