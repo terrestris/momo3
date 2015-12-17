@@ -13,6 +13,7 @@
     - Lkhamsuren, EIC
     - UNDRAKH (EIC)
     - GANDOLJIN(EIC)
+    - Khongorzul(EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
