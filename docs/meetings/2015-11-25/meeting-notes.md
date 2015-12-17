@@ -14,6 +14,7 @@
     - UNDRAKH (EIC)
     - GANDOLJIN(EIC)
     - Urangoo (EIC)
+    - Khongorzul(EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
