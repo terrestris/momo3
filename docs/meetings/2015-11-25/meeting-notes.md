@@ -7,10 +7,15 @@
     - Marc Jansen (terrestris, MJ)
     - Erdenebold (EIC, EB)
     - TODO: Add participants EIC
+    - Bayasgalan, EIC
     - Batchimeg (EIC)
     - Batkhishig, EIC
     - Lkhamsuren, EIC
     - UNDRAKH (EIC)
+    - GANDOLJIN(EIC)
+    - Urangoo (EIC)
+    - Khongorzul(EIC)
+    - Nyamsuren (EIC)
   - HP: Short introduction to MoMo3 project
 
 - Technical abilities:
