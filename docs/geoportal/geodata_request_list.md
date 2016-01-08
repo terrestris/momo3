@@ -9,6 +9,13 @@ This list is meant as a living document and is not complete. Please add all data
   - Kharaa river basin (whole catchment)
     - *format:* shapefile
     - *data provider:* IGB
+      -  -> uploaded to geoportal on 17.12.2015, 17:31h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+      -  file name: kharaa_basin.shp
+      -  suggested layer name: "Kharaa Basin"
+      -  suggested position in layer tree: 
+        - Themenmodul 1: Hydrologie, Landnutzung
+  	      - Einzugsgebiet Kharaa
+
   
   - Administrative borders
     - AIMAG and SOUM boundaries
