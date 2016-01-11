@@ -82,3 +82,17 @@ This list is meant as a living document and is not complete. Please add all data
     - e.g gold mines, waste water treatment plants, contaminated areas
     - *format:* shapefile
     - *data provider:* IGB
+      - **Mining Operations**
+        -  -> uploaded to geoportal on 11.01.2016, 17:50h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+        -  file name: 07_mining_operations_32648.shp (POINT)
+        -  suggested layer name: "Mining operations"
+        -  suggested position in layer tree: 
+          - Themenmodul 2: Gewässerökologie und -qualität
+    	      - Changing environment and human impact
+      - **Potentially contaminated areas**
+        -  -> uploaded to geoportal on 11.01.2016, 17:56h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+        -  file name: 07_potentially_contaminated_areas_32648.shp (POINT)
+        -  suggested layer name: "Potentially contaminated areas"
+        -  suggested position in layer tree: 
+          - Themenmodul 2: Gewässerökologie und -qualität
+    	      - Changing environment and human impact
