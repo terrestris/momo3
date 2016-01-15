@@ -4,11 +4,11 @@
 
 | **Date**            | **Morning (general)**               | **Afternoon (specific)**    |
 |---------------------|-------------------------------------|-----------------------------|
-| **Mo., 2016-05-22** | intro, goals, local data, GeoServer | Services with GeoServer     |
-| **Tu., 2016-05-23** | dev. setup, Intro JavaScript        | Intro JavaScript            |
-| **We., 2016-05-24** | OpenLayers 3                        | Own examples (see Mo.)      |
-| **Th., 2016-05-25** | ExtJS, GeoExt3                      | Own examples (see We.)      |
-| **Fr., 2016-05-26** | Working with the sencha cmd         | Combination example, buffer |
+| **Mo., 2016-02-22** | intro, goals, local data, GeoServer | Services with GeoServer     |
+| **Tu., 2016-02-23** | dev. setup, Intro JavaScript        | Intro JavaScript            |
+| **We., 2016-02-24** | OpenLayers 3                        | Own examples (see Mo.)      |
+| **Th., 2016-02-25** | ExtJS, GeoExt3                      | Own examples (see We.)      |
+| **Fr., 2016-02-26** | Working with the sencha cmd         | Combination example, buffer |
 
 ## Participants
 
