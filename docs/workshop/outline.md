@@ -1,4 +1,4 @@
-# Workshop in Mongolia: 2016-05-22 &mdash; 2016-05-26
+# Workshop in Mongolia: 2016-02-22 &mdash; 2016-02-26
 
 ## Topics
 
