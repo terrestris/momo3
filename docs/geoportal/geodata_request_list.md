@@ -39,11 +39,28 @@ This list is meant as a living document and is not complete. Please add all data
     - *format:* shapefile
     - *data provider:* IGB
 
-####3. Groundwater Resources
-  - groundwater bodies
-    - *format:* shapefile
-    - *data provider:* IGB
-    
+#### 3. Groundwater Resources
+
+- groundwater bodies
+  - *format:* shapefile
+  - *data provider:* IGB
+    - *this layer still needs some editing, will be uploaded to the geoportal in the coming weeks!*
+    - file name: 02_groundwater_bodies_32648.shp
+    - suggested layer name: "Groundwater Bodies"
+    - suggested position in layer tree: 
+    - Themenmodul 1: Hydrologie, Landnutzung
+      - Einzugsgebiet Kharaa
+
+- groundwater monitoring sites
+  - *format:* shapefile
+  - *data provider:* IGB
+    - *this layer is ready, will be uploaded as soon as the geoportal is back online!*
+    - file name: 02_groundwater_monitoring_sites_32648.shp
+    - suggested layer name: "Groundwater Monitoring Sites"
+    - suggested position in layer tree: 
+    - Themenmodul 1: Hydrologie, Landnutzung
+      - Einzugsgebiet Kharaa
+
 ####4. Land Use and Socioeconomy
 
 ####5. Water Demand, Water Balance and Wastewater Treatment
@@ -66,14 +83,29 @@ This list is meant as a living document and is not complete. Please add all data
     - *data provider:* HTW
 
 ####7. Changing environment and human impact
-  - human impact on surface water quality (water bodies)
-    - *format:* shapefile
-    - *data provider:* IGB
-    
-  - human impact on groundwater quality (groundwater bodies)
-    - *format:* shapefile
-    - *data provider:* IGB
-    
+
+- initial risk assessment of surface water bodies
+  - *format:* shapefile
+  - *data provider:* IGB
+    - for a detailed description see this open access publication: http://www.mdpi.com/2073-4441/7/7/3166
+    - this layer is ready, will be uploaded as soon as the geoportal is back online
+    - file name: 07_risk_assessment_surface_water_bodies_32648.shp
+    - suggested layer name: "Initial Risk Assessment of Surface Water Bodies"
+    - suggested position in layer tree: 
+    - Themenmodul 2: Gewässerökologie und -qualität
+      - Changing environment and human impact
+
+- initial risk assessment of groundwater bodies
+  - *format:* shapefile
+  - *data provider:* IGB
+    - for a detailed description see this publication: "Groundwater quality under stress: contaminants in the Kharaa River basin (Mongolia)", http://link.springer.com/article/10.1007%2Fs12665-014-3148-2
+    - this layer still needs some editing, will be uploaded to the geoportal in the coming weeks
+    - file name: 07_risk_assessment_groundwater_bodies_32648.shp
+    - suggested layer name: "Initial Risk Assessment of Groundwater Bodies"
+    - suggested position in layer tree: 
+    - Themenmodul 2: Gewässerökologie und -qualität
+      - Changing environment and human impact
+
   - nutrient emissions
     - *format:* shapefile
     - *data provider:* IGB
