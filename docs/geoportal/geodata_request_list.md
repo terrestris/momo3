@@ -16,11 +16,23 @@ This list is meant as a living document and is not complete. Please add all data
         - Themenmodul 1: Hydrologie, Landnutzung
   	      - Einzugsgebiet Kharaa
 
+  - Kharaa river basin subbasins (updated version 2016)
+    - slight changes at the outlets of individual subbasins to eliminate artifacts at the intersection of river network and subbasin boundaries (subbasins where derived from a DEM while the river network was digitised with a higher resolution from topographical maps, subbasins need to be adapted to match the river network at river junctions)
+    - *format:* shapefile
+    - *data provider:* IGB
+      - for a detailed description see this open access publication: [http://www.mdpi.com/2073-4441/7/7/3166](http://www.mdpi.com/2073-4441/7/7/3166)
+      -  -> uploaded to geoportal on 12.01.2016, 16:17h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+      -  file name: 02_surface_water_bodies_32648
+      -  suggested layer name: "Surface Water Bodies"
+      -  suggested position in layer tree: 
+        - Themenmodul 1: Hydrologie, Landnutzung
+  	      - Einzugsgebiet Kharaa
   
   - Administrative borders
     - AIMAG and SOUM boundaries
     - *format:* shapefile
     - *data provider:* IGB
+      - suggested data source for AIMAG boundaries: [Environmental Information Center Mongolia] (http://www.eic.mn/geodataen/download.html) http://www.eic.mn:8080/geonetwork/srv/eng/resources.get?id=54&fname=aimagbnd.rar&access=private
   
   - Land cover
     - Landsat 5 TM classification 1989, 2005
