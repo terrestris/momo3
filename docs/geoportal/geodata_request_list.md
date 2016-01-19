@@ -20,13 +20,13 @@ This list is meant as a living document and is not complete. Please add all data
     - slight changes at the outlets of individual subbasins to eliminate artifacts at the intersection of river network and subbasin boundaries (subbasins where derived from a DEM while the river network was digitised with a higher resolution from topographical maps, subbasins need to be adapted to match the river network at river junctions)
     - *format:* shapefile
     - *data provider:* IGB
-      - for a detailed description see this open access publication: [http://www.mdpi.com/2073-4441/7/7/3166](http://www.mdpi.com/2073-4441/7/7/3166)
-      -  -> uploaded to geoportal on 12.01.2016, 16:17h by [V. Bremerich](https://github.com/vanbremer) (IGB)
-      -  file name: 02_surface_water_bodies_32648
-      -  suggested layer name: "Surface Water Bodies"
+      -  -> uploaded to geoportal on 19.01.2016, 14:07h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+      -  file name: 01_kharaa_subbasins_32648.shp
+      -  suggested layer name: "Kharaa Subbasins"
       -  suggested position in layer tree: 
         - Themenmodul 1: Hydrologie, Landnutzung
   	      - Einzugsgebiet Kharaa
+  	      - to replace the existing layer "Kharaa Subasins"
   
   - Administrative borders
     - AIMAG and SOUM boundaries
@@ -47,9 +47,17 @@ This list is meant as a living document and is not complete. Please add all data
     - *data provider:* UFZ
   
 ####2. Surface Water Resources
-  - Surface water body types
+  - Surface water body types (updated version 2016)
+    - new version 2016: attribute table edited and some invalid geometries corrected
     - *format:* shapefile
     - *data provider:* IGB
+      - for a detailed description see this open access publication: [http://www.mdpi.com/2073-4441/7/7/3166](http://www.mdpi.com/2073-4441/7/7/3166)
+      -  -> uploaded to geoportal on 19.01.2016, 12:20h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+      -  file name: 02_surface_water_bodies_corr_32648
+      -  suggested layer name: "Surface Water Bodies"
+      -  suggested position in layer tree: 
+        - Themenmodul 1: Hydrologie, Landnutzung
+  	      - Einzugsgebiet Kharaa
 
 #### 3. Groundwater Resources
 
