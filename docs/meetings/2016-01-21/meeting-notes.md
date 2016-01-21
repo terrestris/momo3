@@ -8,7 +8,7 @@
 
 ## Agenda
 
-* Discussion of [workshop in Mongolia](../workshop/outline.md)
+* Discussion of [workshop in Mongolia](../../workshop/outline.md)
 * Discussion of [remaining meetings](../outline.md) up until workshop in
   Mongolia
 * Introduction to GeoServer:
