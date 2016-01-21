@@ -12,7 +12,7 @@
 
 ## Participants
 
-* Maximum number of participants: **10**
+* Maximum number of participants: **13**
   * *Add your name here*
 
 ## Open questions
