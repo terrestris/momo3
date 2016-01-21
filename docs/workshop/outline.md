@@ -25,7 +25,9 @@
 * Facility:
   * Technical infrastructure
     * Internet available?
+      * Meeting 2016-01-21: yes  :+1:
     * Credentials needed?
+      * Meeting 2016-01-21: will be provided
     * Type of PCs?
       * memory, disks, CPU (rough estimates)
       * Meeting 2016-01-21: dual core, ~3GB of RAM, > 200 GB free disk space :+1:
