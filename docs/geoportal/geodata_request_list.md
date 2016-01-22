@@ -1,20 +1,20 @@
 
-#Geodata Requests
+# Geodata Requests
 
-######List of geodata layers to be provided and uploaded to the MOMO geoportal
+###### List of geodata layers to be provided and uploaded to the MOMO geoportal
 This list is meant as a living document and is not complete. Please add all data layers you want to provide to this list!
 
 
-####1. General River Basin Characteristics
-  - Kharaa river basin (whole catchment)
-    - *format:* shapefile
-    - *data provider:* IGB
-      -  -> uploaded to geoportal on 17.12.2015, 17:31h by [V. Bremerich](https://github.com/vanbremer) (IGB)
-      -  file name: kharaa_basin.shp
-      -  suggested layer name: "Kharaa Basin"
-      -  suggested position in layer tree: 
-        - Themenmodul 1: Hydrologie, Landnutzung
-  	      - Einzugsgebiet Kharaa
+#### 1. General River Basin Characteristics
+- Kharaa river basin (whole catchment)
+  - *format:* shapefile
+  - *data provider:* IGB
+    -  -> re-uploaded to geoportal on 22.01.2016, 17:31h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+    -  file name: 01_kharaa_river_basin_32648.shp
+    -  suggested layer name: "Kharaa River Basin"
+    -  suggested position in layer tree: 
+      - Themenmodul 1: Hydrologie, Landnutzung
+        - Einzugsgebiet Kharaa
 
   - Kharaa river basin subbasins (updated version 2016)
     - slight changes at the outlets of individual subbasins to eliminate artifacts at the intersection of river network and subbasin boundaries (subbasins where derived from a DEM while the river network was digitised with a higher resolution from topographical maps, subbasins need to be adapted to match the river network at river junctions)
@@ -135,14 +135,14 @@ This list is meant as a living document and is not complete. Please add all data
     - *format:* shapefile
     - *data provider:* IGB
       - **Mining Operations**
-        -  -> uploaded to geoportal on 11.01.2016, 17:50h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+        -  -> re-uploaded to geoportal on 22.01.2016, 17:48h by [V. Bremerich](https://github.com/vanbremer) (IGB)
         -  file name: 07_mining_operations_32648.shp (POINT)
         -  suggested layer name: "Mining operations"
         -  suggested position in layer tree: 
           - Themenmodul 2: Gewässerökologie und -qualität
     	      - Changing environment and human impact
       - **Potentially contaminated areas**
-        -  -> uploaded to geoportal on 11.01.2016, 17:56h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+        -  -> re-uploaded to geoportal on 22.01.2016, 17:58h by [V. Bremerich](https://github.com/vanbremer) (IGB)
         -  file name: 07_potentially_contaminated_areas_32648.shp (POINT)
         -  suggested layer name: "Potentially contaminated areas"
         -  suggested position in layer tree: 
