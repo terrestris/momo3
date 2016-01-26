@@ -13,7 +13,17 @@
 ## Participants
 
 * Maximum number of participants: **13**
-  * *Add your name here*
+ Bayasgalan (EIC)
+ Lhamsuren (EIC)
+ Narangerel(EIC)
+ Batkhishig(EIC)
+ Gandoljin (EIC)
+ Khongorzul (EIC)
+ Erdenebold(EIC)
+ Undrakh(EIC)
+ Batchimeg(EIC)
+
+
 
 ## Open questions
 
