@@ -13,15 +13,17 @@
 ## Participants
 
 * Maximum number of participants: **13**
- Bayasgalan (EIC)
- Lhamsuren (EIC)
- Narangerel(EIC)
- Batkhishig(EIC)
- Gandoljin (EIC)
- Khongorzul (EIC)
- Erdenebold(EIC)
- Undrakh(EIC)
- Batchimeg(EIC)
+1	M. Bayasgalan	Head of EIC
+2	G.  Batkhishig	Database administrator, EIC
+3	N.  Lkhamsuren	GIS expert, EIC
+4	B.  Khongorzul	Database developer, EIC 
+5	Z. Narangerel	Database manager, EIC
+6	N. Gandoljin	Database developer, EIC
+7	O. Erdenebold	Database developer, EIC
+8	B. Undrakh	Web developer, EIC
+9	A. Batchimeg	Programmer, Remote Sensing division, Institute of Meteorology and Hydrology
+10	S. Baurbeck	IT Consultant, EIC
+11	J. Enkhchimeg	Database developer,  National Agency for Meteorology and Hydrology
 
 
 
