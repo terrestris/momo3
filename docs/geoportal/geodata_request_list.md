@@ -47,17 +47,17 @@ This list is meant as a living document and is not complete. Please add all data
     - *data provider:* UFZ
   
 ####2. Surface Water Resources
-  - Surface water body types (updated version 2016)
-    - new version 2016: attribute table edited and some invalid geometries corrected
-    - *format:* shapefile
-    - *data provider:* IGB
-      - for a detailed description see this open access publication: [http://www.mdpi.com/2073-4441/7/7/3166](http://www.mdpi.com/2073-4441/7/7/3166)
-      -  -> uploaded to geoportal on 19.01.2016, 12:20h by [V. Bremerich](https://github.com/vanbremer) (IGB)
-      -  file name: 02_surface_water_bodies_corr_32648
-      -  suggested layer name: "Surface Water Bodies"
-      -  suggested position in layer tree: 
-        - Themenmodul 1: Hydrologie, Landnutzung
-  	      - Einzugsgebiet Kharaa
+- Surface water body types (updated version 2016
+  - new version 2016: attribute table edited and some invalid geometries corrected
+  - *format:* shapefile
+  - *data provider:* IGB
+    - for a detailed description see this open access publication: [http://www.mdpi.com/2073-4441/7/7/3166](http://www.mdpi.com/2073-4441/7/7/3166)
+    -  -> uploaded to geoportal on 19.01.2016, 12:20h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+    -  file name: 02_surface_water_bodies_corr_32648
+    -  suggested layer name: "Surface Water Bodies"
+    -  suggested position in layer tree: 
+      - Themenmodul 1: Hydrologie, Landnutzung
+        - Einzugsgebiet Kharaa
 
 #### 3. Groundwater Resources
 
@@ -65,21 +65,22 @@ This list is meant as a living document and is not complete. Please add all data
   - *format:* shapefile
   - *data provider:* IGB
     - *this layer still needs some editing, will be uploaded to the geoportal in the coming weeks!*
-    - file name: 02_groundwater_bodies_32648.shp
+    - file name: 03_groundwater_bodies_32648.shp
     - suggested layer name: "Groundwater Bodies"
     - suggested position in layer tree: 
-    - Themenmodul 1: Hydrologie, Landnutzung
-      - Einzugsgebiet Kharaa
+      - Themenmodul 1: Hydrologie, Landnutzung
+        - Einzugsgebiet Kharaa
 
 - groundwater monitoring sites
   - *format:* shapefile
   - *data provider:* IGB
-    - *this layer is ready, will be uploaded as soon as the geoportal is back online!*
-    - file name: 02_groundwater_monitoring_sites_32648.shp
+  -  -> uploaded to geoportal on 19.01.2016, 18:05h by [V. Bremerich](https://github.com/vanbremer) (IGB)
+    - file name: 03_groundwater_monitoring_sites_32648.shp
     - suggested layer name: "Groundwater Monitoring Sites"
+    - suggested field for styling: "WB_CODE"
     - suggested position in layer tree: 
-    - Themenmodul 1: Hydrologie, Landnutzung
-      - Einzugsgebiet Kharaa
+      - Themenmodul 1: Hydrologie, Landnutzung
+        - Einzugsgebiet Kharaa
 
 ####4. Land Use and Socioeconomy
 
@@ -108,12 +109,13 @@ This list is meant as a living document and is not complete. Please add all data
   - *format:* shapefile
   - *data provider:* IGB
     - for a detailed description see this open access publication: http://www.mdpi.com/2073-4441/7/7/3166
-    - this layer is ready, will be uploaded as soon as the geoportal is back online
+    -  -> uploaded to geoportal on 21.01.2016, 12:15h by [V. Bremerich](https://github.com/vanbremer) (IGB)
     - file name: 07_risk_assessment_surface_water_bodies_32648.shp
     - suggested layer name: "Initial Risk Assessment of Surface Water Bodies"
+    - suggested field for styling: "RISK_LEVEL" (not at risk / possibly at risk / at risk) 
     - suggested position in layer tree: 
-    - Themenmodul 2: Gewässerökologie und -qualität
-      - Changing environment and human impact
+      - Themenmodul 2: Gewässerökologie und -qualität
+        - Changing environment and human impact
 
 - initial risk assessment of groundwater bodies
   - *format:* shapefile
@@ -123,8 +125,8 @@ This list is meant as a living document and is not complete. Please add all data
     - file name: 07_risk_assessment_groundwater_bodies_32648.shp
     - suggested layer name: "Initial Risk Assessment of Groundwater Bodies"
     - suggested position in layer tree: 
-    - Themenmodul 2: Gewässerökologie und -qualität
-      - Changing environment and human impact
+      - Themenmodul 2: Gewässerökologie und -qualität
+        - Changing environment and human impact
 
   - nutrient emissions
     - *format:* shapefile
