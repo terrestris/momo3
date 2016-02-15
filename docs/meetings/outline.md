@@ -13,10 +13,10 @@ The goal of the meetings is to transfer knowledge and to help the participants w
 * Meeting 2015-12-10: ☑️ Introduction to github desktop
 * Meeting 2015-12-17: ☑️ Repetition of git/github/github desktop
 * *Meeting 2016-01-14: cancelled due to technical problems*
-* Meeting 2016-01-21: ◻️ Preparation of workshop in Mongolia: Introduction to GeoServer
-* Meeting 2016-01-28: ◻️ Preparation of workshop in Mongolia: Introduction to JavaScript
+* Meeting 2016-01-21: ☑️ Preparation of workshop in Mongolia: Introduction to GeoServer
+* Meeting 2016-01-28: ☑️ Preparation of workshop in Mongolia: Introduction to JavaScript
 * *Meeting 2016-02-04: cancelled*
-* Meeting 2016-02-15: ◻️ Preparation of workshop in Mongolia: Introduction to OpenLayers 
+* Meeting 2016-02-15: ◻️ Preparation of workshop in Mongolia: Introduction to OpenLayers
   * moved to monday as the 2016-02-11 is a national holiday
 * Meeting 2016-02-18: ◻️ Preparation of workshop in Mongolia: Introduction to ExtJS / GeoExt
 * Workshop in Mongolia: 2016-05-22 - 2016-05-26: [outline](../workshop/outline.md).
