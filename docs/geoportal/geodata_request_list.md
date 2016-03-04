@@ -64,7 +64,7 @@ This list is meant as a living document and is not complete. Please add all data
 - groundwater bodies
   - *format:* shapefile
   - *data provider:* IGB
-    - *this layer still needs some editing, will be uploaded to the geoportal in the coming weeks!*
+    - -> uploaded to geoportal on 04.03.2016, 12:50h by [J. Gröning](https://github.com/JonasGroening) (IGB)
     - file name: 03_groundwater_bodies_32648.shp
     - suggested layer name: "Groundwater Bodies"
     - suggested position in layer tree: 
