@@ -1,7 +1,7 @@
 
 # Geodata Requests
 
-###### This list is not used anymore, please go to /docs/geoportal/geodata-upload-list-KYRBAtlas.md instead!!
+###### This list is not used anymore, please go to /docs/geoportal/geodata-and-contributions-for-KYRBAtlas.md instead!!
 
 
 
