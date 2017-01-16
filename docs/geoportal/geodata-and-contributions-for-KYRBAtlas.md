@@ -1,10 +1,23 @@
-# Geodata Upload List for Kharaa Yeroo River Basin Atlas
+# Upload List for the Kharaa Yeroo River Basin Atlas
 
-###### List of geodata for the Kharaa Yeroo River Basin Atlas to be provided and uploaded to the MOMO geoportal
+###### List of texts, geodata and further contributions for the Kharaa Yeroo River Basin Atlas to be provided and uploaded to the MOMO geoportal
 
-This list is meant as a living document and is not complete. Please add all data layers you are planning to contribute or have already uploaded to this list!
+This list is meant as a living document and is not complete. Please add all texts and data layers you are planning to contribute or have already uploaded to this list!
 
 **priority maps are marked in bold**
+
+
+
+## Contents of the Kharaa Yeroo River Basin Atlas 
+
+Foreword
+
+Preface
+
+Introduction
+
+Background
+
 
 #### 1. General River Basin Characteristics
 **1.1 Location of the River Basin**
@@ -74,3 +87,17 @@ This list is meant as a living document and is not complete. Please add all data
 7.9 Changes of wetlands and river floodplains
 7.10 Significant land use changes in recent years documented by remote sensing (e.g. mining etc.)
 7.11 Urban water management
+
+#### 8. Legal framework, Institutional arrangements and planned developments
+8.1 Organigrams of (1) Mongolian water sector, (2) actors with whom the KRBA interacts (tbc)
+8.2 Short list of most important laws pertaining to RBM
+8.3 Policy briefs
+
+#### 9. Kharaa Yeroo River Basin Database
+9.1 MOMO Geoportal
+9.2 Metadata
+
+#### 9. Appendix
+Index
+Bibliography
+Editorial and Production
