@@ -1,6 +1,10 @@
 
 # Geodata Requests
 
+###### This list is not used anymore, please go to /docs/geoportal/geodata-upload-list-KYRBAtlas.md instead!!
+
+
+
 ###### List of geodata layers to be provided and uploaded to the MOMO geoportal
 This list is meant as a living document and is not complete. Please add all data layers you want to provide to this list!
 
