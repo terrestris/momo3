@@ -125,7 +125,7 @@ This list is meant as a living document and is not complete. Please add all data
   - *format:* shapefile
   - *data provider:* IGB
     - for a detailed description see this publication: "Groundwater quality under stress: contaminants in the Kharaa River basin (Mongolia)", http://link.springer.com/article/10.1007%2Fs12665-014-3148-2
-    - this layer still needs some editing, will be uploaded to the geoportal in the coming weeks
+    - -> uploaded to geoportal on 29.03.2016, 16:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
     - file name: 07_risk_assessment_groundwater_bodies_32648.shp
     - suggested layer name: "Initial Risk Assessment of Groundwater Bodies"
     - suggested position in layer tree: 
