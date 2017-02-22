@@ -140,8 +140,13 @@ This list is meant as a living document and is not complete. Please add all text
 *data to be requested from:* 
 
 **2.4 Potential exploitable groundwater resources**  
-*data available from:* IGB, MPRA  
-*data to be requested from:*
+ *data available from:* IGB, MPRA  
+ *article to be requested from:* MAS
+ - *file name:* potential_exploitabele_groundwater_resources_kharaa_yeroo_20170222.shp
+     - *suggested layer name:* "Potential exploitable groundwater resources"
+     - *format:* shapefile
+     - *data provider:* MAS/IGB
+     - uploaded to geoportal on 22.02.2017, 17:30h by [J. Gröning](https://github.com/JonasGroening) (IGB)
 
 **2.5 Renewable groundwater resources**  
 *data available from:* IGB, MPRA  
