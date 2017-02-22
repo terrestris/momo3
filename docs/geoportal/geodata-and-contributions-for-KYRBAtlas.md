@@ -145,7 +145,12 @@ This list is meant as a living document and is not complete. Please add all text
 
 **2.5 Renewable groundwater resources**  
 *data available from:* IGB, MPRA  
-*data to be requested from:*
+*article to be requested from:* MAS
+- *file name:* renewable_groundwater_resources_kharaa_yeroo_20170222.shp
+    - *suggested layer name:* "Renewable groundwater resources"
+    - *format:* shapefile
+    - *data provider:* MAS/IGB
+    - uploaded to geoportal on 22.02.2017, 17:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
 
 
 ### 3. Biotic Systems
