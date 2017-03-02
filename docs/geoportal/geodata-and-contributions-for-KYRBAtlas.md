@@ -28,19 +28,37 @@ This list is meant as a living document and is not complete. Please add all text
 *data available from:* IGB, KYRBA
 
 **1.2 Administration**  
-*data available from:* KYRBA, EIC
-- *file name:* country_boundary.shp
+*article to be requested from::* KYRBA, EIC
+- *file name:* kharaa_yeroo_river_basin_20170222.shp
+    - *suggested layer name:* "Kharaa Yeroo River Basin"
+    - *format:* shapefile
+    - *data provider:* EIC
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
+- *file name:* country_boundary_mongolia_20170222.shp
     - *suggested layer name:* "State Border"
     - *format:* shapefile
     - *data provider:* EIC
-- *file name:* aimag_boundaries.shp
-    - *suggested layer name:* "Aimag Boundaries"
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
+- *file name:* aimag_boundaries_mongolia_20170222.shp
+    - *suggested layer name:* "Aimag Boundaries Mongolia"
     - *format:* shapefile
     - *data provider:* EIC
-- *file name:* soum_boundaries.shp
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
+- *file name:* aimag_boundaries_kharaa_yeroo_20170222.shp
+    - *suggested layer name:* "Aimag Boundaries"
+    - *format:* shapefile
+    - *data provider:* EIC    
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
+- *file name:* soum_boundaries_mongolia_20170222.shp
+    - *suggested layer name:* "Soum Boundaries Mongolia"
+    - *format:* shapefile
+    - *data provider:* EIC/KYRBA?
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)
+- *file name:* soum_boundaries_kharaa_yeroo_20170222.shp
     - *suggested layer name:* "Soum Boundaries"
     - *format:* shapefile
     - *data provider:* EIC/KYRBA?
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)    
 - *file name:* railway_mongolia.shp
     - *suggested layer name:* "Railway"
     - *format:* shapefile
@@ -119,11 +137,13 @@ This list is meant as a living document and is not complete. Please add all text
 ### 2. Water Resources
 
 **2.1 Stream network**  
-*data available from:* KYRBA, IGB  
-- *file name:* kharaa_yeroo_basins.shp
+*data available from:* KYRBA, IGB
+*article to be requested from::* KYRBA, EIC
+- *file name:* kharaa_yeroo_river_basins_20170222.shp
     - *suggested layer name:* "River Basins"
     - *format:* shapefile
     - *data provider:* KYRBA/IGB
+    - uploaded to geoportal on 02.03.2017, 15:00h by [J. Gröning](https://github.com/JonasGroening) (IGB)    
 - *file name:* kharaa_yeroo_surface_water_network.shp
     - *suggested layer name*: "Surface Water Network"
     - *format:* shapefile
